@@ -16,5 +16,4 @@ render_header('Dashboard', 'dashboard');
     <a class="button secondary" href="nalazi.php">Dodaj nalaz</a>
 </section>
 
-
 ?>
